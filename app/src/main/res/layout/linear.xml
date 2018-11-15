@@ -8,7 +8,7 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="298dp"
-        app:srcCompat="@android:drawable/picture_frame" />
+        app:srcCompat="@drawable/a3" />
 
     <TextView
         android:id="@+id/textView"

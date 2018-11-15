@@ -60,5 +60,5 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="4dp"
-        app:srcCompat="@drawable/learn-each-sites-inside" />
+        app:srcCompat="@drawable/a1" />
 </RelativeLayout>
